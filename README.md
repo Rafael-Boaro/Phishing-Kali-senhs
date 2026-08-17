@@ -1,5 +1,5 @@
-**Phishing para captura de senhas do Facebook
-*Ferramentas
+## Phishing para captura de senhas do Facebook
+# Ferramentas
   ```
   Kali Linux
   setoolkit
@@ -15,6 +15,6 @@
   Obtendo o endereço da máquina: ifconfig
   URL para clone: https://x.com
   ```
-*Resutados:
+# Resutados:
 [](assets/senha1.png)
 [](assets/senha2.png)
