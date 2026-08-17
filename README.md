@@ -16,5 +16,5 @@
   URL para clone: https://x.com
   ```
 # Resutados:
-[](assets/senha1.png)
-[](assets/senha2.png)
+![Senha 1](assets/senha1.png)
+![Senha 2](assets/senha2.png)
