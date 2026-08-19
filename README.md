@@ -13,7 +13,7 @@
   Método de ataque: Credential Harvester Attack Method 
   Método de ataque: Site Cloner
   Obtendo o endereço da máquina: ifconfig
-  URL para clone: https://x.com
+  URL para clone: http://x.com
   ```
 # Resutados:
 ![Senha 1](assets/senha1.png)
