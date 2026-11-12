@@ -47,7 +47,7 @@ setoolkit
 
 Apos a submissao dos dados de acesso na interface clonada pelo cliente de teste, o listener do SEToolkit intercepta as variaveis de requisicao POST em texto claro no terminal do atacante:
 
-### 2. Extracao das credenciais capturadas
+### Extracao das credenciais capturadas
 Exibicao direta das variaveis de usuario e senha coletadas pelo processo harvester:
 ![Evidencia das credenciais interceptadas](assets/senha2.png)
 
